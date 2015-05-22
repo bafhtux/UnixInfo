@@ -1,6 +1,5 @@
-# UnixInfo
+UnixInfo
 ======
-##
-# (c) 2015 -- Maximilian Sparenberg -- max.sparenberg@icloud.com
-# All rights reserved
-##
+
+Java Project
+Read system and user information from a linux system
